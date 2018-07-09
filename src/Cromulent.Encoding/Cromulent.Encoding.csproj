@@ -11,6 +11,9 @@ It supports the formal specification as well as an option to automatically pad t
     <Copyright>2008 Adam Smith</Copyright>
     <Company />
     <PackageTags>ZeroMQ Z85 Encoding Ascii85</PackageTags>
+    <PackageLicenseUrl>https://github.com/Trigger2991/Cromulent.Encoding.Z85/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Trigger2991/Cromulent.Encoding.Z85</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Trigger2991/Cromulent.Encoding.Z85</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
