@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cromulent.Encoding", "Cromulent.Encoding\Cromulent.Encoding.csproj", "{E5895FC9-20CB-43E4-8609-85869FC9CBDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cromulent.Encoding.Tests", "Cromulent.Encoding.UnitTests\Cromulent.Encoding.Tests.csproj", "{A8B60865-3CBB-4DBD-8BF9-368AA996DF6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cromulent.Encoding.Tests", "Cromulent.Encoding.Tests\Cromulent.Encoding.Tests.csproj", "{A8B60865-3CBB-4DBD-8BF9-368AA996DF6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
