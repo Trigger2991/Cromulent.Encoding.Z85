@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Cromulent.Encoding.Z85</PackageId>
+    <Authors>Adam Smith</Authors>
+    <Product>Cromulent.Encoding.Z85</Product>
+    <Description>This is a C# implementation of the Z85 specification found at: https://rfc.zeromq.org/spec:32/Z85/.
+It supports the formal specification as well as an option to automatically pad the input bytes.</Description>
+    <Copyright>2008 Adam Smith</Copyright>
+    <Company />
+    <PackageTags>ZeroMQ Z85 Encoding Ascii85</PackageTags>
+  </PropertyGroup>
+
+</Project>
