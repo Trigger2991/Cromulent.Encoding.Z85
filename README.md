@@ -30,7 +30,7 @@ By default the `ToZ85String()` method matches the formal Z85 specification and t
 
 `ToZ85String()` takes an optional parameter `autoPad` which when set to `true` will pad the input bytes if required and append a padding character to the end of the output string. Use of autoPad is not interoperable with other implementations of Z85.
 
-#### Encoding (wihtout padding)
+#### Encoding (without padding)
 ```C#
 var bytes = new byte[] { 0x86, 0x4F, 0xD2, 0x6F, 0xB5, 0x59, 0xF7, 0x5B };
 var output = Z85.ToZ85String(bytes);
